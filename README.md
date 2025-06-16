@@ -6,6 +6,6 @@ This project aims to predict the likelihood of loan default using historical dat
 Lending institutions face significant losses when borrowers default. Identifying high-risk borrowers at the time of loan application enables smarter lending decisions.
 This project helps answer key business questions:
 
-1.Who is likely to default on a loan?
-2.What borrower or loan characteristics are associated with higher risk?
-3.How can machine learning be used to improve credit assessment?
+1.Who is likely to default on a loan?\
+2.What borrower or loan characteristics are associated with higher risk?\
+3.How can machine learning be used to improve credit assessment?\
