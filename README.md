@@ -4,7 +4,7 @@ This project aims to predict the likelihood of loan default using historical dat
 
 ## Business Objective
 Lending institutions face significant losses when borrowers default. Identifying high-risk borrowers at the time of loan application enables smarter lending decisions.
-This project helps answer key business questions:\n
+This project helps answer key business questions:
 
 Who is likely to default on a loan?
 What borrower or loan characteristics are associated with higher risk?
